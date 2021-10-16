@@ -34,4 +34,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* TODO: Juan Figueroa j22figueroa@yahoo.como
+* TODO: Add your names and emails here
